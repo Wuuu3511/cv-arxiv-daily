@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2949,7 +2949,7 @@ layout: default
 |**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046](http://arxiv.org/abs/2407.18046)|null|
 |**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418](http://arxiv.org/abs/2407.17418)|**[link](https://github.com/qqqqqqy0227/awesome-3dgs)**|
 |**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600](http://arxiv.org/abs/2407.16600)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-23**|**Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance**|Jiyeop Kim et.al.|[2407.16173](http://arxiv.org/abs/2407.16173)|null|
 |**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484](http://arxiv.org/abs/2407.15484)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
@@ -3112,7 +3112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-24**|**DiffCD: A Symmetric Differentiable Chamfer Distance for Neural Implicit Surface Fitting**|Linus Härenstam-Nielsen et.al.|[2407.17058](http://arxiv.org/abs/2407.17058)|null|
+|**2024-07-24**|**DiffCD: A Symmetric Differentiable Chamfer Distance for Neural Implicit Surface Fitting**|Linus Härenstam-Nielsen et.al.|[2407.17058](http://arxiv.org/abs/2407.17058)|**[link](https://github.com/linusnie/diffcd)**|
 |**2024-06-14**|**1-Lipschitz Neural Distance Fields**|Guillaume Coiffier et.al.|[2407.09505](http://arxiv.org/abs/2407.09505)|null|
 |**2024-06-14**|**4DRecons: 4D Neural Implicit Deformable Objects Reconstruction from a single RGB-D Camera with Geometrical and Topological Regularizations**|Xiaoyan Cong et.al.|[2406.10167](http://arxiv.org/abs/2406.10167)|null|
 |**2024-05-18**|**HR Human: Modeling Human Avatars with Triangular Mesh and High-Resolution Textures from Videos**|Qifeng Chen et.al.|[2405.11270](http://arxiv.org/abs/2405.11270)|null|
@@ -3132,7 +3132,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
