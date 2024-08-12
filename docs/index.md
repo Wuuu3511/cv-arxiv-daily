@@ -703,7 +703,7 @@ layout: default
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
-|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|**[link](https://github.com/BUAADreamer/SPN4CIR)**|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-20**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
@@ -3061,7 +3061,7 @@ layout: default
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852](http://arxiv.org/abs/2406.05852)|null|
 |**2024-06-09**|**VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction**|Hanlin Chen et.al.|[2406.05774](http://arxiv.org/abs/2406.05774)|null|
-|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343](http://arxiv.org/abs/2406.04343)|null|
+|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343](http://arxiv.org/abs/2406.04343)|**[link](https://github.com/eldar/flash3d)**|
 |**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253](http://arxiv.org/abs/2406.04253)|null|
 |**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697](http://arxiv.org/abs/2406.03697)|null|
