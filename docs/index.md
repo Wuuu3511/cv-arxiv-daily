@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2946,10 +2946,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
+|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108](http://arxiv.org/abs/2409.18108)|null|
+|**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917](http://arxiv.org/abs/2409.17917)|null|
+|**2024-09-26**|**HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting**|Zijun Xu et.al.|[2409.17624](http://arxiv.org/abs/2409.17624)|null|
+|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
+|**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280](http://arxiv.org/abs/2409.17280)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
 |**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915](http://arxiv.org/abs/2409.16915)|null|
-|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
 |**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|**[link](https://github.com/peizhiyan/flame-head-tracker)**|
 |**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959](http://arxiv.org/abs/2409.15959)|null|
@@ -3264,6 +3270,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
+|**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
+|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
+|**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|null|
+|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
 |**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
 |**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|**[link](https://github.com/peizhiyan/flame-head-tracker)**|
 |**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715](http://arxiv.org/abs/2409.15715)|null|
