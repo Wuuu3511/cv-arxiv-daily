@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2947,7 +2947,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
-|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419](http://arxiv.org/abs/2410.11419)|null|
+|**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419](http://arxiv.org/abs/2410.11419)|**[link](https://github.com/gsrelight/gs-relight)**|
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394](http://arxiv.org/abs/2410.11394)|null|
 |**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356](http://arxiv.org/abs/2410.11356)|null|
 |**2024-10-15**|**Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting**|Yuanbo Chen et.al.|[2410.11285](http://arxiv.org/abs/2410.11285)|null|
