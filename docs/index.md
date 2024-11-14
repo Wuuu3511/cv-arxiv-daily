@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2946,7 +2946,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-12**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
+|**2024-11-13**|**Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation**|Han Qi et.al.|[2411.07579](http://arxiv.org/abs/2411.07579)|null|
 |**2024-11-12**|**GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting**|Umangi Jain et.al.|[2411.07555](http://arxiv.org/abs/2411.07555)|null|
 |**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
 |**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478](http://arxiv.org/abs/2411.07478)|null|
