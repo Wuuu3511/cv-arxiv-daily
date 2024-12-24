@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2952,7 +2952,7 @@ layout: default
 |**2024-12-20**|**EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene**|Yixiong Huo et.al.|[2412.15550](http://arxiv.org/abs/2412.15550)|**[link](https://github.com/jiangxb98/egsral)**|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
 |**2024-12-19**|**SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction**|Zhuowen Shen et.al.|[2412.15400](http://arxiv.org/abs/2412.15400)|null|
-|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
+|**2024-12-21**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-19**|**Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**|Leonardo Barcellona et.al.|[2412.14957](http://arxiv.org/abs/2412.14957)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
 |**2024-12-19**|**Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation**|Yongsung Kim et.al.|[2412.14568](http://arxiv.org/abs/2412.14568)|null|
