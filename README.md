@@ -989,7 +989,7 @@
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221](http://arxiv.org/abs/2307.08221)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
-|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|**[link](https://github.com/ramdrop/rcir)**|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**Feature Activation Map: Visual Explanation of Deep Learning Models for Image Classification**|Yi Liao et.al.|[2307.05017](http://arxiv.org/abs/2307.05017)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
@@ -2985,7 +2985,7 @@
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
 |**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
 |**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695](http://arxiv.org/abs/2501.01695)|null|
-|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677](http://arxiv.org/abs/2501.01677)|null|
+|**2025-01-03**|**PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping**|Tengfei Wang et.al.|[2501.01677](http://arxiv.org/abs/2501.01677)|**[link](https://github.com/tfwang-9527/pg-sag)**|
 |**2025-01-02**|**Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes**|Jiwei Shan et.al.|[2501.01101](http://arxiv.org/abs/2501.01101)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
