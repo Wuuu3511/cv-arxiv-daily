@@ -2231,7 +2231,7 @@
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
-|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|**[link](https://github.com/USTC3DV/MERFStudio)**|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
@@ -2994,7 +2994,7 @@
 |**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
 |**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
-|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|**[link](https://github.com/SparklingH/BloomScene)**|
 |**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302](http://arxiv.org/abs/2501.09302)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
@@ -3404,7 +3404,7 @@
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868](http://arxiv.org/abs/2409.09868)|null|
 |**2024-09-15**|**MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation**|Shuzhao Xie et.al.|[2409.09756](http://arxiv.org/abs/2409.09756)|null|
-|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|**[link](https://github.com/mit-lean/gevo)**|
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 |**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
