@@ -2946,6 +2946,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754](http://arxiv.org/abs/2502.07754)|null|
+|**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
+|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
 |**2025-02-10**|**SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**|Ola Shorinwa et.al.|[2502.06519](http://arxiv.org/abs/2502.06519)|null|
 |**2025-02-10**|**Three-Dimensional MRI Reconstruction with Gaussian Representations: Tackling the Undersampling Problem**|Tengya Peng et.al.|[2502.06510](http://arxiv.org/abs/2502.06510)|null|
 |**2025-02-11**|**Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform**|Kyle Gao et.al.|[2502.05769](http://arxiv.org/abs/2502.05769)|null|
@@ -3703,9 +3706,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030](http://arxiv.org/abs/2502.07030)|null|
+|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
 |**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708](http://arxiv.org/abs/2502.05708)|null|
 |**2025-02-05**|**VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**|Jayram Palamadai et.al.|[2502.05222](http://arxiv.org/abs/2502.05222)|null|
-|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
+|**2025-02-11**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
 |**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
