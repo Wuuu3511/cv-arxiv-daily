@@ -2946,10 +2946,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|null|
+|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129](http://arxiv.org/abs/2502.14129)|null|
-|**2025-02-19**|**Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction**|Gan Chen et.al.|[2502.14004](http://arxiv.org/abs/2502.14004)|null|
+|**2025-02-19**|**Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction**|Gan Chen et.al.|[2502.14004](http://arxiv.org/abs/2502.14004)|**[link](https://github.com/Inter3D-ui/Inter3D)**|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196](http://arxiv.org/abs/2502.13196)|null|
 |**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
@@ -3565,7 +3565,7 @@ layout: default
 |**2024-07-10**|**3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**|Nicolas Moenne-Loccoz et.al.|[2407.07090](http://arxiv.org/abs/2407.07090)|null|
 |**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 |**2024-07-05**|**Gaussian Eigen Models for Human Heads**|Wojciech Zielonka et.al.|[2407.04545](http://arxiv.org/abs/2407.04545)|null|
 |**2024-07-12**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504](http://arxiv.org/abs/2407.04504)|null|
 |**2024-07-10**|**GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**|Yuxuan Mu et.al.|[2407.04237](http://arxiv.org/abs/2407.04237)|null|
@@ -4059,7 +4059,7 @@ layout: default
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
