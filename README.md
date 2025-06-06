@@ -2969,6 +2969,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-05**|**Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training**|Aneesh Deogan et.al.|[2506.05092](http://arxiv.org/abs/2506.05092)|null|
+|**2025-06-05**|**UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting**|Jaehoon Choi et.al.|[2506.05011](http://arxiv.org/abs/2506.05011)|null|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009](http://arxiv.org/abs/2506.05009)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
+|**2025-06-05**|**Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations**|Gaia Di Lorenzo et.al.|[2506.04789](http://arxiv.org/abs/2506.04789)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444](http://arxiv.org/abs/2506.04444)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
+|**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351](http://arxiv.org/abs/2506.04351)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**|Hengyu Liu et.al.|[2506.04174](http://arxiv.org/abs/2506.04174)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
@@ -4110,6 +4119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Uniform Sampling of Surfaces by Casting Rays**|Selena Ling et.al.|[2506.05268](http://arxiv.org/abs/2506.05268)|null|
 |**2025-05-16**|**NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits**|Nail Ibrahimli et.al.|[2505.10827](http://arxiv.org/abs/2505.10827)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-04-28**|**FreBIS: Frequency-Based Stratification for Neural Implicit Surface Representations**|Naoko Sawada et.al.|[2504.20222](http://arxiv.org/abs/2504.20222)|null|
@@ -4150,6 +4160,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
