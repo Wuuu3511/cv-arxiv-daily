@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2947,12 +2947,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-18**|**Neural-GASh: A CGA-based neural radiance prediction pipeline for real-time shading**|Efstratios Geronikolakis et.al.|[2507.13917](http://arxiv.org/abs/2507.13917)|null|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
+|**2025-07-21**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
 |**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586](http://arxiv.org/abs/2507.13586)|null|
 |**2025-07-16**|**VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians**|Siyuan Yao et.al.|[2507.12667](http://arxiv.org/abs/2507.12667)|null|
 |**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Kuangshi Ai et.al.|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
-|**2025-07-16**|**Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition**|Beizhen Zhao et.al.|[2507.12498](http://arxiv.org/abs/2507.12498)|null|
-|**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
+|**2025-07-21**|**Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition**|Beizhen Zhao et.al.|[2507.12498](http://arxiv.org/abs/2507.12498)|null|
+|**2025-07-21**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027](http://arxiv.org/abs/2507.12027)|null|
 |**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
