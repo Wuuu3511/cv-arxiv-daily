@@ -30,5 +30,6 @@ keywords:
         filters: ["Neural Implicit Surfaces", "Neus"]
     "Nerf":
         filters: ["Nerf"]
-    
+    "Dust3r":
+        filters: ["Dust3r"]
    
