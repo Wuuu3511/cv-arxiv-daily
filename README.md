@@ -5,14 +5,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#slam>SLAM</a></li>
-    <li><a href=#sfm>SFM</a></li>
-    <li><a href=#visual-localization>Visual Localization</a></li>
-    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
-    <li><a href=#image-matching>Image Matching</a></li>
-    <li><a href=#nerf>NeRF</a></li>
     <li><a href=#3dgs>3DGS</a></li>
     <li><a href=#mvs>MVS</a></li>
-    <li><a href=#dust3r>DUST3R</a></li>
     <li><a href=#3d-understanding>3D Understanding</a></li>
     <li><a href=#vlm>VLM</a></li>
     <li><a href=#3d-reconstruction>3D Reconstruction</a></li>
