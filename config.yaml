@@ -25,26 +25,11 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
     "3DGS":
-        filters: ["3DGS"]
-    "MVS":
-        filters: ["MVS", "Multi-View Stereo"]
-    "DUST3R":
-        filters: ["DUST3R", "Dust3r"]
+        filters: ["3DGS", "NeRF"]
+    "3D Reconstruction":
+        filters: ["DUST3R", "MVS", "Multi-view Stereo", "Point Cloud Reconstruction", "Depth Estimation", "Volumetric Reconstruction", "Mesh Reconstruction"]
     "3D Understanding":
-        filters: ["3D understanding", "3D scene understanding"]
+        filters: ["3D understanding", "3D scene understanding", "Visual Grounding", "Open-vocabulary Segmentation", "3D Semantic Segmentation", "3D Object Detection", "3D Layout Estimation"]
     "VLM":
         filters: ["VLM", "Vision Language Model"]
