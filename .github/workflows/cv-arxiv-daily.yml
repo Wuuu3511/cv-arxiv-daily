@@ -44,6 +44,9 @@ jobs:
           pip install requests
           pip install pyyaml
           
+      - name: Show config.yaml
+        run: cat config.yaml
+        
       - name: Run daily arxiv 
         run: |
           python daily_arxiv.py
