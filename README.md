@@ -4,11 +4,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#slam>3DGS</a></li>
+    <li><a href=#3dgs>3DGS</a></li>
   </ol>
 </details>
 
-## SLAM
+## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
