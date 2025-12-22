@@ -8739,8 +8739,11 @@ layout: default
 |**2025-12-18**|**Animate Any Character in Any World**|Yitong Wang et.al.|[2512.17796](http://arxiv.org/abs/2512.17796)|null|
 |**2025-12-19**|**Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation**|Xijie Huang et.al.|[2512.17349](http://arxiv.org/abs/2512.17349)|null|
 |**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
 |**2025-12-17**|**MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance**|Kaizhe Zhang et.al.|[2512.15048](http://arxiv.org/abs/2512.15048)|null|
+|**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
 |**2025-12-16**|**GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants**|Yang Yang et.al.|[2512.14087](http://arxiv.org/abs/2512.14087)|null|
 |**2025-12-15**|**Computer vision training dataset generation for robotic environments using Gaussian splatting**|Patryk Niżeniec et.al.|[2512.13411](http://arxiv.org/abs/2512.13411)|null|
@@ -8780,6 +8783,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**StereoMV2D: A Sparse Temporal Stereo-Enhanced Framework for Robust Multi-View 3D Object Detection**|Di Wu et.al.|[2512.17620](http://arxiv.org/abs/2512.17620)|null|
+|**2025-12-19**|**GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation**|Rang Li et.al.|[2512.17495](http://arxiv.org/abs/2512.17495)|null|
+|**2025-12-19**|**Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning**|Siqi Yang et.al.|[2512.17227](http://arxiv.org/abs/2512.17227)|null|
+|**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang et.al.|[2512.16924](http://arxiv.org/abs/2512.16924)|null|
+|**2025-12-18**|**VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization**|Xiaoyan Cong et.al.|[2512.16906](http://arxiv.org/abs/2512.16906)|null|
+|**2025-12-18**|**DenseBEV: Transforming BEV Grid Cells into 3D Objects**|Marius Dähling et.al.|[2512.16818](http://arxiv.org/abs/2512.16818)|null|
+|**2025-12-18**|**Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation**|Sarosij Bose et.al.|[2512.16201](http://arxiv.org/abs/2512.16201)|null|
+|**2025-12-18**|**Auto-Vocabulary 3D Object Detection**|Haomeng Zhang et.al.|[2512.16077](http://arxiv.org/abs/2512.16077)|null|
+|**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|null|
+|**2025-12-17**|**SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks**|Vegard Flovik et.al.|[2512.15938](http://arxiv.org/abs/2512.15938)|null|
 |**2025-12-18**|**Unified Semantic Transformer for 3D Scene Understanding**|Sebastian Koch et.al.|[2512.14364](http://arxiv.org/abs/2512.14364)|null|
 |**2025-12-15**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
 |**2025-12-16**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
@@ -8805,6 +8818,21 @@ layout: default
 |**2025-12-19**|**ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**|Teng Wang et.al.|[2512.17435](http://arxiv.org/abs/2512.17435)|null|
 |**2025-12-19**|**RadImageNet-VQA: A Large-Scale CT and MRI Dataset for Radiologic Visual Question Answering**|Léo Butsanets et.al.|[2512.17396](http://arxiv.org/abs/2512.17396)|null|
 |**2025-12-19**|**Are Vision Language Models Cross-Cultural Theory of Mind Reasoners?**|Zabir Al Nazi et.al.|[2512.17394](http://arxiv.org/abs/2512.17394)|null|
+
+## 3D Reconstruction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|null|
+|**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[2512.17784](http://arxiv.org/abs/2512.17784)|null|
+|**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[2512.17724](http://arxiv.org/abs/2512.17724)|null|
+|**2025-12-19**|**SCAR: Semantic Cardiac Adversarial Representation via Spatiotemporal Manifold Optimization in ECG**|Shunbo Jia et.al.|[2512.17423](http://arxiv.org/abs/2512.17423)|null|
+|**2025-12-18**|**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation**|Min-Jung Kim et.al.|[2512.17040](http://arxiv.org/abs/2512.17040)|null|
+|**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](http://arxiv.org/abs/2512.16913)|null|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|null|
+|**2025-12-18**|**From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems**|Mohamed Shamseldein et.al.|[2512.16497](http://arxiv.org/abs/2512.16497)|null|
+|**2025-12-18**|**Learning High-Quality Initial Noise for Single-View Synthesis with Diffusion Models**|Zhihao Zhang et.al.|[2512.16219](http://arxiv.org/abs/2512.16219)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
