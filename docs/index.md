@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration**|Hao Wei et.al.|[2512.20355](http://arxiv.org/abs/2512.20355)|null|
+|**2025-12-22**|**Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**|Tao Li et.al.|[2512.19110](http://arxiv.org/abs/2512.19110)|null|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
@@ -8735,7 +8737,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-19**|**Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**|Yue Li et.al.|[2512.17817](http://arxiv.org/abs/2512.17817)|null|
+|**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
+|**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
+|**2025-12-23**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
+|**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
+|**2025-12-22**|**TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**|Hongwei Fan et.al.|[2512.19390](http://arxiv.org/abs/2512.19390)|null|
+|**2025-12-21**|**EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images**|Jongmin Park et.al.|[2512.18692](http://arxiv.org/abs/2512.18692)|null|
+|**2025-12-21**|**Geometric-Photometric Event-based 3D Gaussian Ray Tracing**|Kai Kohyama et.al.|[2512.18640](http://arxiv.org/abs/2512.18640)|null|
+|**2025-12-20**|**Joint Learning of Depth, Pose, and Local Radiance Field for Large Scale Monocular 3D Reconstruction**|Shahram Najam Syed et.al.|[2512.18237](http://arxiv.org/abs/2512.18237)|null|
+|**2025-12-22**|**Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**|Yue Li et.al.|[2512.17817](http://arxiv.org/abs/2512.17817)|null|
 |**2025-12-18**|**Animate Any Character in Any World**|Yitong Wang et.al.|[2512.17796](http://arxiv.org/abs/2512.17796)|null|
 |**2025-12-19**|**Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation**|Xijie Huang et.al.|[2512.17349](http://arxiv.org/abs/2512.17349)|null|
 |**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
@@ -8783,6 +8793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**ORCA: Object Recognition and Comprehension for Archiving Marine Species**|Yuk-Kwan Wong et.al.|[2512.21150](http://arxiv.org/abs/2512.21150)|null|
+|**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|null|
+|**2025-12-24**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al.|[2512.20907](http://arxiv.org/abs/2512.20907)|null|
+|**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](http://arxiv.org/abs/2512.20770)|null|
+|**2025-12-23**|**The Effect of Empathic Expression Levels in Virtual Human Interaction: A Controlled Experiment**|Sung Park et.al.|[2512.20221](http://arxiv.org/abs/2512.20221)|null|
+|**2025-12-23**|**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**|Xiangxuan Ren et.al.|[2512.20217](http://arxiv.org/abs/2512.20217)|null|
+|**2025-12-23**|**How Much 3D Do Video Foundation Models Encode?**|Zixuan Huang et.al.|[2512.19949](http://arxiv.org/abs/2512.19949)|null|
+|**2025-12-22**|**HyGE-Occ: Hybrid View-Transformation with 3D Gaussian and Edge Priors for 3D Panoptic Occupancy Prediction**|Jong Wook Kim et.al.|[2512.19871](http://arxiv.org/abs/2512.19871)|null|
+|**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
+|**2025-12-21**|**Enhancing Medical Large Vision-Language Models via Alignment Distillation**|Aofei Chang et.al.|[2512.18554](http://arxiv.org/abs/2512.18554)|null|
 |**2025-12-19**|**StereoMV2D: A Sparse Temporal Stereo-Enhanced Framework for Robust Multi-View 3D Object Detection**|Di Wu et.al.|[2512.17620](http://arxiv.org/abs/2512.17620)|null|
 |**2025-12-19**|**GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation**|Rang Li et.al.|[2512.17495](http://arxiv.org/abs/2512.17495)|null|
 |**2025-12-19**|**Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning**|Siqi Yang et.al.|[2512.17227](http://arxiv.org/abs/2512.17227)|null|
@@ -8808,6 +8828,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Li-Zhong Szu-Tu et.al.|[2512.21337](http://arxiv.org/abs/2512.21337)|null|
+|**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Xinhe Wang et.al.|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
+|**2025-12-24**|**MarineEval: Assessing the Marine Intelligence of Vision-Language Models**|YuK-Kwan Wong et.al.|[2512.21126](http://arxiv.org/abs/2512.21126)|null|
+|**2025-12-24**|**UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters**|Yongkun Du et.al.|[2512.21095](http://arxiv.org/abs/2512.21095)|null|
+|**2025-12-24**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Lichao Wu et.al.|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
+|**2025-12-24**|**A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate**|Yiren Shen et.al.|[2512.20941](http://arxiv.org/abs/2512.20941)|null|
 |**2025-12-19**|**Adversarial Robustness of Vision in Open Foundation Models**|Jonathon Fox et.al.|[2512.17902](http://arxiv.org/abs/2512.17902)|null|
 |**2025-12-19**|**Visually Prompted Benchmarks Are Surprisingly Fragile**|Haiwen Feng et.al.|[2512.17875](http://arxiv.org/abs/2512.17875)|null|
 |**2025-12-19**|**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**|Ran Gong et.al.|[2512.17853](http://arxiv.org/abs/2512.17853)|null|
@@ -8823,6 +8853,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Channel-last gate-all-around nanosheet oxide semiconductor transistors**|Fabia F. Athena et.al.|[2512.21330](http://arxiv.org/abs/2512.21330)|null|
+|**2025-12-23**|**Amino Acid Translocation Through a Dual Nanopore Platform**|Chih-Yuan Lin et.al.|[2512.20776](http://arxiv.org/abs/2512.20776)|null|
+|**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538](http://arxiv.org/abs/2512.20538)|null|
+|**2025-12-23**|**Dielectric and gate metal engineering for threshold voltage modulation in enhancement mode monolayer MoS2 field effect transistors**|Lixin Liu et.al.|[2512.20069](http://arxiv.org/abs/2512.20069)|null|
+|**2025-12-22**|**Phantom LAM and LLI: Resistance and Hysteresis Bias in Voltage-Curve Degradation Mode Analysis**|Mohammed Asheruddin N et.al.|[2512.19773](http://arxiv.org/abs/2512.19773)|null|
+|**2025-12-22**|**Ultra-high precision high voltage system for PTOLEMY**|R. Ammendola et.al.|[2512.19437](http://arxiv.org/abs/2512.19437)|null|
+|**2025-12-24**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](http://arxiv.org/abs/2512.19083)|null|
+|**2025-12-23**|**Unraveling time-varying causal effects of multiple exposures: integrating Functional Data Analysis with Multivariable Mendelian Randomization**|Nicole Fontana et.al.|[2512.19064](http://arxiv.org/abs/2512.19064)|null|
+|**2025-12-22**|**CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization**|Zelin Zhao et.al.|[2512.19020](http://arxiv.org/abs/2512.19020)|null|
+|**2025-12-21**|**EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**|Yuxiao Yang et.al.|[2512.18814](http://arxiv.org/abs/2512.18814)|null|
 |**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|null|
 |**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[2512.17784](http://arxiv.org/abs/2512.17784)|null|
 |**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[2512.17724](http://arxiv.org/abs/2512.17724)|null|
