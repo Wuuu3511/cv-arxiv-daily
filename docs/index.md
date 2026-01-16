@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.11
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings**|Yuchen Wu et.al.|[2601.09665](http://arxiv.org/abs/2601.09665)|null|
+|**2026-01-14**|**Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping**|Jiajun Sun et.al.|[2601.09578](http://arxiv.org/abs/2601.09578)|null|
+|**2026-01-14**|**SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing**|Ziyang Ma et.al.|[2601.09385](http://arxiv.org/abs/2601.09385)|null|
+|**2026-01-13**|**Efficient Incremental SLAM via Information-Guided and Selective Optimization**|Reza Arablouei et.al.|[2601.08110](http://arxiv.org/abs/2601.08110)|null|
+|**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood et.al.|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
 |**2026-01-08**|**Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain**|Riku Suzuki et.al.|[2601.04551](http://arxiv.org/abs/2601.04551)|null|
 |**2026-01-08**|**Fast Continuum Robot Shape and External Load State Estimation on SE(3)**|James M. Ferguson et.al.|[2601.04493](http://arxiv.org/abs/2601.04493)|null|
 |**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
-|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
+|**2026-01-09**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](http://arxiv.org/abs/2601.02309)|null|
 |**2026-01-05**|**Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors**|Yuhang Zhang et.al.|[2601.02184](http://arxiv.org/abs/2601.02184)|null|
 |**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/abs/2601.01144)|null|
 |**2025-12-28**|**RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization**|Wei-Tse Cheng et.al.|[2601.00705](http://arxiv.org/abs/2601.00705)|null|
@@ -8749,6 +8755,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Variable Basis Mapping for Real-Time Volumetric Visualization**|Qibiao Li et.al.|[2601.09417](http://arxiv.org/abs/2601.09417)|null|
+|**2026-01-14**|**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**|Sooyeun Yang et.al.|[2601.09291](http://arxiv.org/abs/2601.09291)|null|
+|**2026-01-14**|**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**|Bei Huang et.al.|[2601.09265](http://arxiv.org/abs/2601.09265)|null|
+|**2026-01-12**|**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**|Jiahua Dong et.al.|[2601.07963](http://arxiv.org/abs/2601.07963)|null|
+|**2026-01-10**|**HOSC: A Periodic Activation with Saturation Control for High-Fidelity Implicit Neural Representations**|Michal Jan Wlodarczyk et.al.|[2601.07870](http://arxiv.org/abs/2601.07870)|null|
+|**2026-01-12**|**Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization**|Fangyu Lin et.al.|[2601.07518](http://arxiv.org/abs/2601.07518)|null|
+|**2026-01-12**|**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**|Xiaofeng Jin et.al.|[2601.07484](http://arxiv.org/abs/2601.07484)|null|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood et.al.|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
+|**2026-01-12**|**Sketch&Patch++: Efficient Structure-Aware 3D Gaussian Representation**|Yuang Shi et.al.|[2601.05394](http://arxiv.org/abs/2601.05394)|null|
 |**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|null|
 |**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
 |**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
@@ -8822,6 +8837,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**|Sheng-Yu Huang et.al.|[2601.09575](http://arxiv.org/abs/2601.09575)|null|
+|**2026-01-14**|**Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs**|Rui Zhu et.al.|[2601.09430](http://arxiv.org/abs/2601.09430)|null|
+|**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li et.al.|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
+|**2026-01-13**|**Reasoning Matters for 3D Visual Grounding**|Hsiang-Wei Huang et.al.|[2601.08811](http://arxiv.org/abs/2601.08811)|null|
+|**2026-01-13**|**ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios**|António Loison et.al.|[2601.08620](http://arxiv.org/abs/2601.08620)|null|
+|**2026-01-13**|**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**|Feiran Wang et.al.|[2601.08175](http://arxiv.org/abs/2601.08175)|null|
+|**2026-01-13**|**Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling**|Xiyan Feng et.al.|[2601.08174](http://arxiv.org/abs/2601.08174)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
+|**2026-01-12**|**PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs**|Zijing Wang et.al.|[2601.07645](http://arxiv.org/abs/2601.07645)|null|
+|**2026-01-12**|**A Visual Semantic Adaptive Watermark grounded by Prefix-Tuning for Large Vision-Language Model**|Qi Zheng et.al.|[2601.07291](http://arxiv.org/abs/2601.07291)|null|
 |**2026-01-08**|**V-FAT: Benchmarking Visual Fidelity Against Text-bias**|Ziteng Wang et.al.|[2601.04897](http://arxiv.org/abs/2601.04897)|null|
 |**2026-01-08**|**GeM-VG: Towards Generalized Multi-image Visual Grounding with Multimodal Large Language Models**|Shurong Zheng et.al.|[2601.04777](http://arxiv.org/abs/2601.04777)|null|
 |**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
@@ -8885,6 +8910,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Xuyang Fang et.al.|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
+|**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal et.al.|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
+|**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Selim Emir Can et.al.|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
+|**2026-01-14**|**CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems**|Yonglin Tian et.al.|[2601.09613](http://arxiv.org/abs/2601.09613)|null|
+|**2026-01-14**|**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**|Sheng-Yu Huang et.al.|[2601.09575](http://arxiv.org/abs/2601.09575)|null|
+|**2026-01-14**|**PrivLEX: Detecting legal concepts in images through Vision-Language Models**|Darya Baranouskaya et.al.|[2601.09449](http://arxiv.org/abs/2601.09449)|null|
+|**2026-01-14**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al.|[2601.09147](http://arxiv.org/abs/2601.09147)|null|
+|**2026-01-14**|**SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL**|Lijun Liu et.al.|[2601.09136](http://arxiv.org/abs/2601.09136)|null|
+|**2026-01-14**|**LP-LLM: End-to-End Real-World Degraded License Plate Text Recognition via Large Multimodal Models**|Haoyan Gong et.al.|[2601.09116](http://arxiv.org/abs/2601.09116)|null|
+|**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li et.al.|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-08**|**Mechanisms of Prompt-Induced Hallucination in Vision-Language Models**|William Rudman et.al.|[2601.05201](http://arxiv.org/abs/2601.05201)|null|
 |**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
 |**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Ignacio de Rodrigo et.al.|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
@@ -8940,6 +8975,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**|Edgar Sucar et.al.|[2601.09499](http://arxiv.org/abs/2601.09499)|null|
+|**2026-01-14**|**Robo-Advising in Motion: A Model Predictive Control Approach**|Tomasz R. Bielecki et.al.|[2601.09127](http://arxiv.org/abs/2601.09127)|null|
+|**2026-01-13**|**SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration**|Chentian Sun et.al.|[2601.08414](http://arxiv.org/abs/2601.08414)|null|
+|**2026-01-13**|**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**|Feiran Wang et.al.|[2601.08175](http://arxiv.org/abs/2601.08175)|null|
+|**2026-01-13**|**Multi-level charge fluctuations in a Si/SiGe double quantum dot device**|Dylan Albrecht et.al.|[2601.08088](http://arxiv.org/abs/2601.08088)|null|
+|**2026-01-11**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
+|**2026-01-13**|**MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation**|Changli Wu et.al.|[2601.06874](http://arxiv.org/abs/2601.06874)|null|
+|**2026-01-10**|**A Rechargeable Chromium Battery**|Apurva Anjan et.al.|[2601.06583](http://arxiv.org/abs/2601.06583)|null|
+|**2026-01-09**|**Determination of $^{170,172}$Yb($α,n$)$^{173,175}$ Hf reaction cross sections in a stacked-target experiment**|Martin Müller et.al.|[2601.06337](http://arxiv.org/abs/2601.06337)|null|
+|**2026-01-09**|**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**|Weimin Liu et.al.|[2601.05839](http://arxiv.org/abs/2601.05839)|null|
 |**2026-01-08**|**Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video**|Zeren Jiang et.al.|[2601.05251](http://arxiv.org/abs/2601.05251)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
