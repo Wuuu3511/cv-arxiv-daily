@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,6 +23,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation**|Joonhee Lee et.al.|[2601.21506](http://arxiv.org/abs/2601.21506)|null|
+|**2026-01-28**|**Multi-Robot Decentralized Collaborative SLAM in Planetary Analogue Environments: Dataset, Challenges, and Lessons Learned**|Pierre-Yves Lajoie et.al.|[2601.21063](http://arxiv.org/abs/2601.21063)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments**|Riccardo Giubilato et.al.|[2601.19557](http://arxiv.org/abs/2601.19557)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-26**|**Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing**|Chao Wang et.al.|[2601.18252](http://arxiv.org/abs/2601.18252)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020](http://arxiv.org/abs/2601.16020)|null|
 |**2026-01-22**|**Parallelizable Riemannian Alternating Direction Method of Multipliers for Non-convex Pose Graph Optimization**|Xin Chen et.al.|[2601.15684](http://arxiv.org/abs/2601.15684)|null|
 |**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252](http://arxiv.org/abs/2601.13252)|null|
@@ -1302,7 +1308,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## SFM
 
@@ -2265,7 +2271,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5104,7 +5110,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5638,7 +5644,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Image Matching
 
@@ -6987,7 +6993,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## NeRF
 
@@ -8781,12 +8787,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](http://arxiv.org/abs/2601.21269)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-27**|**DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization**|Yitong Yang et.al.|[2601.19717](http://arxiv.org/abs/2601.19717)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|null|
+|**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Zeyu Xiao et.al.|[2601.19233](http://arxiv.org/abs/2601.19233)|null|
+|**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
+|**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](http://arxiv.org/abs/2601.18849)|null|
+|**2026-01-26**|**LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction**|Xinhui Liu et.al.|[2601.18475](http://arxiv.org/abs/2601.18475)|null|
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
 |**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|null|
 |**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|null|
@@ -8847,7 +8863,7 @@
 |**2025-12-15**|**Computer vision training dataset generation for robotic environments using Gaussian splatting**|Patryk Niżeniec et.al.|[2512.13411](http://arxiv.org/abs/2512.13411)|null|
 |**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## MVS
 
@@ -8864,7 +8880,7 @@
 |**2025-12-12**|**Online Full ZVS Optimization for Modular Multi-Active Bridge Converter in MV PET**|Haoyu Wang et.al.|[2512.12017](http://arxiv.org/abs/2512.12017)|null|
 |**2025-12-10**|**Exploratory Mean-Variance with Jumps: An Equilibrium Approach**|Yuling Max Chen et.al.|[2512.09224](http://arxiv.org/abs/2512.09224)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## DUST3R
 
@@ -8881,12 +8897,22 @@
 |**2025-09-23**|**DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring**|Pengteng Li et.al.|[2509.18898](http://arxiv.org/abs/2509.18898)|null|
 |**2025-08-22**|**HAMSt3R: Human-Aware Multi-view Stereo 3D Reconstruction**|Sara Rojas et.al.|[2508.16433](http://arxiv.org/abs/2508.16433)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## 3D Understanding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods**|Honglin Lin et.al.|[2601.21821](http://arxiv.org/abs/2601.21821)|null|
+|**2026-01-29**|**RSGround-R1: Rethinking Remote Sensing Visual Grounding through Spatial Reasoning**|Shiqi Huang et.al.|[2601.21634](http://arxiv.org/abs/2601.21634)|null|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Thinker: A vision-language foundation model for embodied intelligence**|Baiyu Pan et.al.|[2601.21199](http://arxiv.org/abs/2601.21199)|null|
+|**2026-01-28**|**ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR**|Lixiang Zhao et.al.|[2601.20758](http://arxiv.org/abs/2601.20758)|null|
+|**2026-01-28**|**Hallucination Begins Where Saliency Drops**|Xiaofeng Zhang et.al.|[2601.20279](http://arxiv.org/abs/2601.20279)|null|
+|**2026-01-27**|**Towards Governance-Oriented Low-Altitude Intelligence: A Management-Centric Multi-Modal Benchmark With Implicitly Coordinated Vision-Language Reasoning Framework**|Hao Chang et.al.|[2601.19640](http://arxiv.org/abs/2601.19640)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
+|**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
 |**2026-01-21**|**MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation**|Chandan Kumar Sahu et.al.|[2601.15487](http://arxiv.org/abs/2601.15487)|null|
 |**2026-01-21**|**CURE: Curriculum-guided Multi-task Training for Reliable Anatomy Grounded Report Generation**|Pablo Messina et.al.|[2601.15408](http://arxiv.org/abs/2601.15408)|null|
 |**2026-01-20**|**XD-MAP: Cross-Modal Domain Adaptation using Semantic Parametric Mapping**|Frank Bieder et.al.|[2601.14477](http://arxiv.org/abs/2601.14477)|null|
@@ -8972,12 +8998,22 @@
 |**2025-12-09**|**CVP: Central-Peripheral Vision-Inspired Multimodal Model for Spatial Reasoning**|Zeyuan Chen et.al.|[2512.08135](http://arxiv.org/abs/2512.08135)|null|
 |**2025-12-08**|**STRinGS: Selective Text Refinement in Gaussian Splatting**|Abhinav Raundhal et.al.|[2512.07230](http://arxiv.org/abs/2512.07230)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence**|Saoud Aldowaish et.al.|[2601.22114](http://arxiv.org/abs/2601.22114)|null|
+|**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Yibo Wang et.al.|[2601.22069](http://arxiv.org/abs/2601.22069)|null|
+|**2026-01-29**|**PaddleOCR-VL-1.5: Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing**|Cheng Cui et.al.|[2601.21957](http://arxiv.org/abs/2601.21957)|null|
+|**2026-01-29**|**Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models**|Konstantinos P. Panousis et.al.|[2601.21944](http://arxiv.org/abs/2601.21944)|null|
+|**2026-01-29**|**Mil-SCORE: Benchmarking Long-Context Geospatial Reasoning and Planning in Large Language Models**|Aadi Palnitkar et.al.|[2601.21826](http://arxiv.org/abs/2601.21826)|null|
+|**2026-01-29**|**MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods**|Honglin Lin et.al.|[2601.21821](http://arxiv.org/abs/2601.21821)|null|
+|**2026-01-29**|**Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US**|Seongchan Park et.al.|[2601.21815](http://arxiv.org/abs/2601.21815)|null|
+|**2026-01-29**|**Knowledge Vector Weakening: Efficient Training-free Unlearning for Large Vision-Language Models**|Yejin Kim et.al.|[2601.21794](http://arxiv.org/abs/2601.21794)|null|
+|**2026-01-29**|**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**|Li Ju et.al.|[2601.21662](http://arxiv.org/abs/2601.21662)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
 |**2026-01-22**|**Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources**|Marzieh Adeli Shamsabad et.al.|[2601.16108](http://arxiv.org/abs/2601.16108)|null|
 |**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Chenyang Li et.al.|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
@@ -9059,12 +9095,22 @@
 |**2025-12-19**|**RadImageNet-VQA: A Large-Scale CT and MRI Dataset for Radiologic Visual Question Answering**|Léo Butsanets et.al.|[2512.17396](http://arxiv.org/abs/2512.17396)|null|
 |**2025-12-19**|**Are Vision Language Models Cross-Cultural Theory of Mind Reasoners?**|Zabir Al Nazi et.al.|[2512.17394](http://arxiv.org/abs/2512.17394)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## 3D Reconstruction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
+|**2026-01-29**|**Distribution-Aware Reward Estimation for Test-Time Reinforcement Learning**|Bodong Du et.al.|[2601.21804](http://arxiv.org/abs/2601.21804)|null|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-28**|**Shrinkage Estimators for Mean and Covariance: Evidence on Portfolio Efficiency Across Market Dimensions**|Rupendra Yadav et.al.|[2601.20643](http://arxiv.org/abs/2601.20643)|null|
+|**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
+|**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Sungjae Lee et.al.|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461](http://arxiv.org/abs/2601.19461)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|null|
 |**2026-01-22**|**Pregroup representable expansions of residuated lattices**|Andrew Craig et.al.|[2601.15905](http://arxiv.org/abs/2601.15905)|null|
 |**2026-01-22**|**Experimental Demonstration of Nonlinear Photoconductive Gain in N-Doped $β$-Ga$_2$O$_3$ Devices**|Vikash K. Jangir et.al.|[2601.15555](http://arxiv.org/abs/2601.15555)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
@@ -9133,7 +9179,7 @@
 |**2025-12-18**|**From Liability to Asset: A Three-Mode Grid-Forming Control Framework for Centralized Data Center UPS Systems**|Mohamed Shamseldein et.al.|[2512.16497](http://arxiv.org/abs/2512.16497)|null|
 |**2025-12-18**|**Learning High-Quality Initial Noise for Single-View Synthesis with Diffusion Models**|Zhihao Zhang et.al.|[2512.16219](http://arxiv.org/abs/2512.16219)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
