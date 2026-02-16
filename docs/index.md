@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
 |**2026-02-09**|**Thegra: Graph-based SLAM for Thermal Imagery**|Anastasiia Kornilova et.al.|[2602.08531](http://arxiv.org/abs/2602.08531)|null|
-|**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
+|**2026-02-11**|**Thermal odometry and dense mapping using learned odometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
 |**2026-02-06**|**A Consistency-Improved LiDAR-Inertial Bundle Adjustment**|Xinran Li et.al.|[2602.06380](http://arxiv.org/abs/2602.06380)|null|
 |**2026-02-05**|**Geometric Observability Index: An Operator-Theoretic Framework for Per-Feature Sensitivity, Weak Observability, and Dynamic Effects in SE(3) Pose Estimation**|Joe-Mei Feng et.al.|[2602.05582](http://arxiv.org/abs/2602.05582)|null|
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
@@ -8779,6 +8780,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning**|Junwoon Lee et.al.|[2602.12314](http://arxiv.org/abs/2602.12314)|null|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](http://arxiv.org/abs/2602.11705)|null|
+|**2026-02-13**|**Variation-aware Flexible 3D Gaussian Editing**|Hao Qin et.al.|[2602.11638](http://arxiv.org/abs/2602.11638)|null|
+|**2026-02-12**|**LeafFit: Plant Assets Creation from 3D Gaussian Splatting**|Chang Luo et.al.|[2602.11577](http://arxiv.org/abs/2602.11577)|null|
+|**2026-02-10**|**XSPLAIN: XAI-enabling Splat-based Prototype Learning for Attribute-aware INterpretability**|Dominik Galus et.al.|[2602.10239](http://arxiv.org/abs/2602.10239)|null|
+|**2026-02-10**|**ArtisanGS: Interactive Tools for Gaussian Splat Selection with AI and Human in the Loop**|Clement Fuji Tsang et.al.|[2602.10173](http://arxiv.org/abs/2602.10173)|null|
+|**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
 |**2026-02-09**|**Analysis of Converged 3D Gaussian Splatting Solutions: Density Effects and Prediction Limit**|Zhendong Wang et.al.|[2602.08909](http://arxiv.org/abs/2602.08909)|null|
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|null|
@@ -8900,6 +8909,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs**|Rosie Zhao et.al.|[2602.12506](http://arxiv.org/abs/2602.12506)|null|
+|**2026-02-12**|**SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation**|Chengxi Zeng et.al.|[2602.12173](http://arxiv.org/abs/2602.12173)|null|
+|**2026-02-12**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al.|[2602.11554](http://arxiv.org/abs/2602.11554)|null|
+|**2026-02-12**|**Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning**|Zhengbo Jiao et.al.|[2602.11455](http://arxiv.org/abs/2602.11455)|null|
+|**2026-02-11**|**Stress Tests REVEAL Fragile Temporal and Visual Grounding in Video-Language Models**|Sethuraman T et.al.|[2602.11244](http://arxiv.org/abs/2602.11244)|null|
+|**2026-02-11**|**ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents**|Cong Pang et.al.|[2602.10863](http://arxiv.org/abs/2602.10863)|null|
+|**2026-02-11**|**RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation**|Zihui Zhou et.al.|[2602.10799](http://arxiv.org/abs/2602.10799)|null|
 |**2026-02-10**|**AGMark: Attention-Guided Dynamic Watermarking for Large Vision-Language Models**|Yue Li et.al.|[2602.09611](http://arxiv.org/abs/2602.09611)|null|
 |**2026-02-10**|**Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models**|Xinwei Zhang et.al.|[2602.09431](http://arxiv.org/abs/2602.09431)|null|
 |**2026-02-10**|**Single-Slice-to-3D Reconstruction in Medical Imaging and Natural Objects: A Comparative Benchmark with SAM 3D**|Yan Luo et.al.|[2602.09407](http://arxiv.org/abs/2602.09407)|null|
@@ -9019,6 +9035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Wenhui Liao et.al.|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads**|Vijayasri Iyer et.al.|[2602.12877](http://arxiv.org/abs/2602.12877)|null|
+|**2026-02-13**|**Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation**|Yichen Zhao et.al.|[2602.12843](http://arxiv.org/abs/2602.12843)|null|
+|**2026-02-13**|**X-SYS: A Reference Architecture for Interactive Explanation Systems**|Tobias Labarta et.al.|[2602.12748](http://arxiv.org/abs/2602.12748)|null|
+|**2026-02-13**|**SignScene: Visual Sign Grounding for Mapless Navigation**|Nicky Zimmerman et.al.|[2602.12686](http://arxiv.org/abs/2602.12686)|null|
+|**2026-02-13**|**Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution**|Rui Cai et.al.|[2602.12684](http://arxiv.org/abs/2602.12684)|null|
+|**2026-02-13**|**IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models**|Aarish Shah Mohsin et.al.|[2602.12659](http://arxiv.org/abs/2602.12659)|null|
 |**2026-02-10**|**Code2World: A GUI World Model via Renderable Code Generation**|Yuhao Zheng et.al.|[2602.09856](http://arxiv.org/abs/2602.09856)|null|
 |**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
 |**2026-02-10**|**SAKED: Mitigating Hallucination in Large Vision-Language Models via Stability-Aware Knowledge Enhanced Decoding**|Zhaoxu Li et.al.|[2602.09825](http://arxiv.org/abs/2602.09825)|null|
@@ -9134,6 +9160,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-12**|**H.265/HEVC Video Steganalysis Based on CU Block Structure Gradients and IPM Mapping**|Xiang Zhang et.al.|[2602.11547](http://arxiv.org/abs/2602.11547)|null|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|null|
+|**2026-02-11**|**The Curious Case of Centaurus A II: On the Subject of the Quenched satellites**|Sachi Weerasooriya et.al.|[2602.11270](http://arxiv.org/abs/2602.11270)|null|
+|**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](http://arxiv.org/abs/2602.11066)|null|
+|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|null|
+|**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
+|**2026-02-10**|**Field-driven Ion Pairing Dynamics in Concentrated Electrolytes**|Seokjin Moon et.al.|[2602.10257](http://arxiv.org/abs/2602.10257)|null|
+|**2026-02-10**|**Measurement of the Full Shape of the Thermal Sunyaev-Zeldovich Power Spectrum from South Pole Telescope and {\it Herschel}-SPIRE Observations**|S. Raghunathan et.al.|[2602.10107](http://arxiv.org/abs/2602.10107)|null|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|Yikun Liu et.al.|[2602.09934](http://arxiv.org/abs/2602.09934)|null|
 |**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|null|
 |**2026-02-09**|**Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes**|Nusrat Rashid et.al.|[2602.08183](http://arxiv.org/abs/2602.08183)|null|
 |**2026-02-08**|**Continuity-driven Synergistic Diffusion with Neural Priors for Ultra-Sparse-View CBCT Reconstruction**|Junlin Wang et.al.|[2602.07980](http://arxiv.org/abs/2602.07980)|null|
