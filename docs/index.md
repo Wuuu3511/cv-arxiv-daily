@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**Cutting the Cord: System Architecture for Low-Cost, GPU-Accelerated Bimanual Mobile Manipulation**|Artemis Shaw et.al.|[2603.09051](http://arxiv.org/abs/2603.09051)|null|
+|**2026-03-09**|**Overlapping Schwarz Preconditioners for Pose-Graph SLAM in Robotics**|Stephan Köhler et.al.|[2603.08975](http://arxiv.org/abs/2603.08975)|null|
+|**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
+|**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|
+|**2026-03-09**|**Perception-Aware Communication-Free Multi-UAV Coordination in the Wild**|Manuel Boldrer et.al.|[2603.08379](http://arxiv.org/abs/2603.08379)|null|
+|**2026-03-09**|**Edged USLAM: Edge-Aware Event-Based SLAM with Learning-Based Depth Priors**|Şebnem Sarıözkan et.al.|[2603.08150](http://arxiv.org/abs/2603.08150)|null|
+|**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|
+|**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
 |**2026-02-26**|**Motion-aware Event Suppression for Event Cameras**|Roberto Pellerito et.al.|[2602.23204](http://arxiv.org/abs/2602.23204)|null|
 |**2026-02-26**|**FLIGHT: Fibonacci Lattice-based Inference for Geometric Heading in real-Time**|David Dirnfeld et.al.|[2602.23115](http://arxiv.org/abs/2602.23115)|null|
 |**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
@@ -8796,6 +8806,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**GSStream: 3D Gaussian Splatting based Volumetric Scene Streaming System**|Zhiye Tang et.al.|[2603.09718](http://arxiv.org/abs/2603.09718)|null|
+|**2026-03-10**|**ProGS: Towards Progressive Coding for 3D Gaussian Splatting**|Zhiye Tang et.al.|[2603.09703](http://arxiv.org/abs/2603.09703)|null|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](http://arxiv.org/abs/2603.09291)|null|
+|**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](http://arxiv.org/abs/2603.09277)|null|
+|**2026-03-09**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](http://arxiv.org/abs/2603.08997)|null|
+|**2026-03-09**|**ImprovedGS+: A High-Performance C++/CUDA Re-Implementation Strategy for 3D Gaussian Splatting**|Jordi Muñoz Vicente et.al.|[2603.08661](http://arxiv.org/abs/2603.08661)|null|
+|**2026-03-09**|**Spherical-GOF: Geometry-Aware Panoramic Gaussian Opacity Fields for 3D Scene Reconstruction**|Zhe Yang et.al.|[2603.08503](http://arxiv.org/abs/2603.08503)|null|
+|**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
 |**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
 |**2026-02-26**|**BetterScene: 3D Scene Synthesis with Representation-Aligned Generative Model**|Yuci Han et.al.|[2602.22596](http://arxiv.org/abs/2602.22596)|null|
 |**2026-02-26**|**SwiftNDC: Fast Neural Depth Correction for High-Fidelity 3D Reconstruction**|Kang Han et.al.|[2602.22565](http://arxiv.org/abs/2602.22565)|null|
@@ -8938,6 +8958,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
+|**2026-03-10**|**AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering**|Nguyen Anh Tuong et.al.|[2603.09689](http://arxiv.org/abs/2603.09689)|null|
+|**2026-03-10**|**OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks**|Ronghao Fu et.al.|[2603.09471](http://arxiv.org/abs/2603.09471)|null|
+|**2026-03-10**|**Point Cloud as a Foreign Language for Multi-modal Large Language Model**|Sneha Paul et.al.|[2603.09173](http://arxiv.org/abs/2603.09173)|null|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
+|**2026-03-09**|**Computational modeling of early language learning from acoustic speech and audiovisual input without linguistic priors**|Okko Räsänen et.al.|[2603.08359](http://arxiv.org/abs/2603.08359)|null|
+|**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Michael Kösel et.al.|[2603.08180](http://arxiv.org/abs/2603.08180)|null|
+|**2026-03-09**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al.|[2603.08131](http://arxiv.org/abs/2603.08131)|null|
+|**2026-03-09**|**ConflictBench: Evaluating Human-AI Conflict via Interactive and Visually Grounded Environments**|Weixiang Zhao et.al.|[2603.08024](http://arxiv.org/abs/2603.08024)|null|
+|**2026-03-09**|**MJ1: Multimodal Judgment via Grounded Verification**|Bhavesh Kumar et.al.|[2603.07990](http://arxiv.org/abs/2603.07990)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
 |**2026-02-26**|**DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation**|Zebin Yang et.al.|[2602.22896](http://arxiv.org/abs/2602.22896)|null|
 |**2026-02-26**|**HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**|Yangguang Lin et.al.|[2602.22727](http://arxiv.org/abs/2602.22727)|null|
@@ -9079,6 +9109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**|Xinyu Gao et.al.|[2603.09961](http://arxiv.org/abs/2603.09961)|null|
+|**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
+|**2026-03-10**|**Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**|Yuchen Yang et.al.|[2603.09896](http://arxiv.org/abs/2603.09896)|null|
+|**2026-03-10**|**VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models**|Shuhao Kang et.al.|[2603.09826](http://arxiv.org/abs/2603.09826)|null|
+|**2026-03-10**|**TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions**|Nerea Gallego et.al.|[2603.09782](http://arxiv.org/abs/2603.09782)|null|
+|**2026-03-10**|**Ego: Embedding-Guided Personalization of Vision-Language Models**|Soroush Seifi et.al.|[2603.09771](http://arxiv.org/abs/2603.09771)|null|
+|**2026-03-10**|**LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos**|Lei Shi et.al.|[2603.09743](http://arxiv.org/abs/2603.09743)|null|
+|**2026-03-10**|**Finetuning a Text-to-Audio Model for Room Impulse Response Generation**|Kirak Kim et.al.|[2603.09708](http://arxiv.org/abs/2603.09708)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**Speech-Omni-Lite: Portable Speech Interfaces for Vision-Language Models**|Dehua Tao et.al.|[2603.09627](http://arxiv.org/abs/2603.09627)|null|
 |**2026-02-26**|**MediX-R1: Open Ended Medical Reinforcement Learning**|Sahal Shaji Mullappilly et.al.|[2602.23363](http://arxiv.org/abs/2602.23363)|null|
 |**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Amita Kamath et.al.|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
@@ -9224,6 +9264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**On the Structural Failure of Chamfer Distance in 3D Shape Optimization**|Chang-Yong Song et.al.|[2603.09925](http://arxiv.org/abs/2603.09925)|null|
+|**2026-03-10**|**Materials Acceleration Platform for Electrochemistry (MAP-E): a Platform for Autonomous Electrochemistry**|Daniel Persaud et.al.|[2603.09845](http://arxiv.org/abs/2603.09845)|null|
+|**2026-03-10**|**CTPX1: A Highly Integrated and High-Throughput Data-Driven Camera Based on Timepix4**|Qicai Li et.al.|[2603.09534](http://arxiv.org/abs/2603.09534)|null|
+|**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
+|**2026-03-10**|**EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation**|Yinrui Ren et.al.|[2603.09385](http://arxiv.org/abs/2603.09385)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](http://arxiv.org/abs/2603.09320)|null|
+|**2026-03-09**|**MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment**|Kailong Fan et.al.|[2603.08987](http://arxiv.org/abs/2603.08987)|null|
+|**2026-03-09**|**MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data**|Hunor Laczkó et.al.|[2603.08147](http://arxiv.org/abs/2603.08147)|null|
+|**2026-03-09**|**Physics-Informed Global Extraction of the Universal Small- $x$ Dipole Amplitude**|Si-Wei Dai et.al.|[2603.08008](http://arxiv.org/abs/2603.08008)|null|
+|**2026-03-09**|**MMS Observations of Kinetic Alfvén Wave Turbulence and Steep Kinetic-Range Spectra in the Outer Plasma Sheet Boundary Layer**|Mani K Chettri et.al.|[2603.07969](http://arxiv.org/abs/2603.07969)|null|
 |**2026-02-26**|**Experimental Demonstration of Beam-Driven Wakefield Acceleration in Laser-Plasma Filament**|M. Galletti et.al.|[2602.22841](http://arxiv.org/abs/2602.22841)|null|
 |**2026-02-26**|**SwiftNDC: Fast Neural Depth Correction for High-Fidelity 3D Reconstruction**|Kang Han et.al.|[2602.22565](http://arxiv.org/abs/2602.22565)|null|
 |**2026-02-24**|**Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments**|Shuang Song et.al.|[2602.22025](http://arxiv.org/abs/2602.22025)|null|
