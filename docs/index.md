@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers**|Alessandro Marchei et.al.|[2604.08060](http://arxiv.org/abs/2604.08060)|null|
+|**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|
+|**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331](http://arxiv.org/abs/2604.07331)|null|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|null|
+|**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720](http://arxiv.org/abs/2604.06720)|null|
+|**2026-04-08**|**The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence**|Napoleon Paxton et.al.|[2604.06621](http://arxiv.org/abs/2604.06621)|null|
+|**2026-04-06**|**Synchronous Observer Design for Landmark-Inertial SLAM with Magnetometer and Intermittent GNSS Measurements**|Arkadeep Saha et.al.|[2604.05156](http://arxiv.org/abs/2604.05156)|null|
+|**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|null|
+|**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|null|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|null|
 |**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|null|
@@ -8848,6 +8858,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[2604.08410](http://arxiv.org/abs/2604.08410)|null|
+|**2026-04-09**|**SurfelSplat: Learning Efficient and Generalizable Gaussian Surfel Representations for Sparse-View Surface Reconstruction**|Chensheng Dai et.al.|[2604.08370](http://arxiv.org/abs/2604.08370)|null|
+|**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|null|
+|**2026-04-08**|**Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets**|Muhammad Fahim Tajwar et.al.|[2604.07177](http://arxiv.org/abs/2604.07177)|null|
+|**2026-04-09**|**AnchorSplat: Feed-Forward 3D Gaussian Splatting with 3D Geometric Priors**|Xiaoxue Zhang et.al.|[2604.07053](http://arxiv.org/abs/2604.07053)|null|
+|**2026-04-08**|**DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2604.06739](http://arxiv.org/abs/2604.06739)|null|
+|**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|null|
+|**2026-04-07**|**3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models**|Jae Joong Lee et.al.|[2604.05366](http://arxiv.org/abs/2604.05366)|null|
+|**2026-04-07**|**Indoor Asset Detection in Large Scale 360° Drone-Captured Imagery via 3D Gaussian Splatting**|Monica Tang et.al.|[2604.05316](http://arxiv.org/abs/2604.05316)|null|
+|**2026-04-07**|**SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration**|Xueming Fu et.al.|[2604.05301](http://arxiv.org/abs/2604.05301)|null|
 |**2026-04-03**|**SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction**|Zicheng Zhang et.al.|[2604.03069](http://arxiv.org/abs/2604.03069)|null|
 |**2026-04-03**|**GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model**|Qida Cao et.al.|[2604.03039](http://arxiv.org/abs/2604.03039)|null|
 |**2026-04-03**|**Streaming Real-Time Rendered Scenes as 3D Gaussians**|Matti Siekkinen et.al.|[2604.02851](http://arxiv.org/abs/2604.02851)|null|
@@ -9053,6 +9073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|
+|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|
+|**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[2604.08509](http://arxiv.org/abs/2604.08509)|null|
+|**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|null|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[2604.08461](http://arxiv.org/abs/2604.08461)|null|
+|**2026-04-09**|**CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**|Rui Gan et.al.|[2604.08457](http://arxiv.org/abs/2604.08457)|null|
+|**2026-04-09**|**PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models**|Ruizhi Zhang et.al.|[2604.08340](http://arxiv.org/abs/2604.08340)|null|
+|**2026-04-09**|**OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation**|Seungjae Moon et.al.|[2604.08110](http://arxiv.org/abs/2604.08110)|null|
+|**2026-04-09**|**Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning**|Emanuele Balloni et.al.|[2604.08068](http://arxiv.org/abs/2604.08068)|null|
+|**2026-04-09**|**Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments**|Yun Zhu et.al.|[2604.07997](http://arxiv.org/abs/2604.07997)|null|
 |**2026-04-03**|**STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models**|Linfeng Fan et.al.|[2604.03045](http://arxiv.org/abs/2604.03045)|null|
 |**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[2604.02903](http://arxiv.org/abs/2604.02903)|null|
 |**2026-04-03**|**Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models**|Hai Nguyen-Truong et.al.|[2604.02893](http://arxiv.org/abs/2604.02893)|null|
@@ -9256,6 +9286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|
+|**2026-04-09**|**What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric**|Mohamed Amine Kerkouri et.al.|[2604.08494](http://arxiv.org/abs/2604.08494)|null|
+|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
+|**2026-04-09**|**CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**|Rui Gan et.al.|[2604.08457](http://arxiv.org/abs/2604.08457)|null|
+|**2026-04-09**|**Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models**|Marcel Gröpl et.al.|[2604.08456](http://arxiv.org/abs/2604.08456)|null|
+|**2026-04-09**|**Phantasia: Context-Adaptive Backdoors in Vision Language Models**|Nam Duong Tran et.al.|[2604.08395](http://arxiv.org/abs/2604.08395)|null|
+|**2026-04-09**|**PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models**|Ruizhi Zhang et.al.|[2604.08340](http://arxiv.org/abs/2604.08340)|null|
+|**2026-04-09**|**Can Vision Language Models Judge Action Quality? An Empirical Evaluation**|Miguel Monte e Freitas et.al.|[2604.08294](http://arxiv.org/abs/2604.08294)|null|
+|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
+|**2026-04-09**|**Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**|Blessing Agyei Kyem et.al.|[2604.08212](http://arxiv.org/abs/2604.08212)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
 |**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
@@ -9471,6 +9511,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|
+|**2026-04-09**|**Multimodal Latent Reasoning via Predictive Embeddings**|Ashutosh Adhikari et.al.|[2604.08065](http://arxiv.org/abs/2604.08065)|null|
+|**2026-04-09**|**A H.265/HEVC Fine-Grained ROI Video Encryption Algorithm Based on Coding Unit and Prompt Segmentation**|Xiang Zhang et.al.|[2604.08047](http://arxiv.org/abs/2604.08047)|null|
+|**2026-04-09**|**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**|Yunnan Wang et.al.|[2604.07990](http://arxiv.org/abs/2604.07990)|null|
+|**2026-04-09**|**Object-Centric Stereo Ranging for Autonomous Driving: From Dense Disparity to Census-Based Template Matching**|Qihao Huang et.al.|[2604.07980](http://arxiv.org/abs/2604.07980)|null|
+|**2026-04-09**|**Adaptive Depth-converted-Scale Convolution for Self-supervised Monocular Depth Estimation**|Yanbo Gao et.al.|[2604.07665](http://arxiv.org/abs/2604.07665)|null|
+|**2026-04-09**|**Monocular Depth Estimation From the Perspective of Feature Restoration: A Diffusion Enhanced Depth Restoration Approach**|Huibin Bai et.al.|[2604.07664](http://arxiv.org/abs/2604.07664)|null|
+|**2026-04-08**|**CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency**|Timothy K Johnsen et.al.|[2604.07286](http://arxiv.org/abs/2604.07286)|null|
+|**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|null|
+|**2026-04-08**|**Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media**|João V. T. Neves et.al.|[2604.07203](http://arxiv.org/abs/2604.07203)|null|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**Mott-Derived Local Moments and Kondo Hybridization in a d-electron Kagome lattice**|Xing Zhang et.al.|[2604.02922](http://arxiv.org/abs/2604.02922)|null|
