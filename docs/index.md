@@ -2,14 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-15**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|null|
+|**2026-04-19**|**CAR-EnKF: A Covariance-Adaptive and Recalibrated Ensemble Kalman Filter Framework**|Shida Jiang et.al.|[2604.17343](http://arxiv.org/abs/2604.17343)|null|
+|**2026-04-17**|**Environment-Adaptive Solid-State LiDAR-Inertial Odometry**|Zhi Zhang et.al.|[2604.15864](http://arxiv.org/abs/2604.15864)|null|
+|**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612](http://arxiv.org/abs/2604.15612)|null|
+|**2026-04-16**|**Dual Pose-Graph Semantic Localization for Vision-Based Autonomous Drone Racing**|David Perez-Saura et.al.|[2604.15168](http://arxiv.org/abs/2604.15168)|null|
+|**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052](http://arxiv.org/abs/2604.15052)|null|
+|**2026-04-16**|**Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye**|Tianjun Zhang et.al.|[2604.14795](http://arxiv.org/abs/2604.14795)|null|
+|**2026-04-16**|**A multi-platform LiDAR dataset for standardized forest inventory measurement at long term ecological monitoring sites**|Michael R. Chang et.al.|[2604.14635](http://arxiv.org/abs/2604.14635)|null|
+|**2026-04-16**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|null|
 |**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089](http://arxiv.org/abs/2604.14089)|null|
 |**2026-04-15**|**Uplink Single-Snapshot Frugal SLAM in Phase-Coherent Distributed MIMO Systems**|Yu Ge et.al.|[2604.13807](http://arxiv.org/abs/2604.13807)|null|
 |**2026-04-15**|**RadarSplat-RIO: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment**|Pou-Chun Kung et.al.|[2604.13492](http://arxiv.org/abs/2604.13492)|null|
@@ -8868,6 +8875,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](http://arxiv.org/abs/2604.17965)|null|
+|**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831](http://arxiv.org/abs/2604.17831)|null|
+|**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721](http://arxiv.org/abs/2604.17721)|null|
+|**2026-04-18**|**D-Prism: Differentiable Primitives for Structured Dynamic Modeling**|Xingyuan Yu et.al.|[2604.17082](http://arxiv.org/abs/2604.17082)|null|
+|**2026-04-17**|**Incoherent Deformation, Not Capacity: Diagnosing and Mitigating Overfitting in Dynamic Gaussian Splatting**|Ahmad Droby et.al.|[2604.16747](http://arxiv.org/abs/2604.16747)|null|
+|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|null|
+|**2026-04-17**|**Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction**|Haato Watanabe et.al.|[2604.15941](http://arxiv.org/abs/2604.15941)|null|
+|**2026-04-17**|**Splats in Splats++: Robust and Generalizable 3D Gaussian Splatting Steganography**|Yijia Guo et.al.|[2604.15862](http://arxiv.org/abs/2604.15862)|null|
+|**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612](http://arxiv.org/abs/2604.15612)|null|
+|**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[2604.15239](http://arxiv.org/abs/2604.15239)|null|
 |**2026-04-15**|**Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis**|Yuchao Chen et.al.|[2604.13589](http://arxiv.org/abs/2604.13589)|null|
 |**2026-04-14**|**MSGS: Multispectral 3D Gaussian Splatting**|Iris Zheng et.al.|[2604.13340](http://arxiv.org/abs/2604.13340)|null|
 |**2026-04-14**|**SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting**|Iris Zheng et.al.|[2604.13333](http://arxiv.org/abs/2604.13333)|null|
@@ -9093,6 +9110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models**|Ziyao Tang et.al.|[2604.17873](http://arxiv.org/abs/2604.17873)|null|
+|**2026-04-20**|**Raven: Rethinking Automated Assessment for Scratch Programs via Video-Grounded Evaluation**|Donglin Li et.al.|[2604.17820](http://arxiv.org/abs/2604.17820)|null|
+|**2026-04-19**|**AutoVQA-G: Self-Improving Agentic Framework for Automated Visual Question Answering and Grounding Annotation**|Rongsheng Hu et.al.|[2604.17488](http://arxiv.org/abs/2604.17488)|null|
+|**2026-04-19**|**UniMesh: Unifying 3D Mesh Understanding and Generation**|Peng Huang et.al.|[2604.17472](http://arxiv.org/abs/2604.17472)|null|
+|**2026-04-19**|**Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding**|Shaoguang Wang et.al.|[2604.17422](http://arxiv.org/abs/2604.17422)|null|
+|**2026-04-19**|**More Than Meets the Eye: Measuring the Semiotic Gap in Vision-Language Models via Semantic Anchorage**|Wei He et.al.|[2604.17354](http://arxiv.org/abs/2604.17354)|null|
+|**2026-04-19**|**E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition**|Meng Zhang et.al.|[2604.17319](http://arxiv.org/abs/2604.17319)|null|
+|**2026-04-18**|**Instant Colorization of Gaussian Splats**|Daniel Lieber et.al.|[2604.17155](http://arxiv.org/abs/2604.17155)|null|
+|**2026-04-18**|**CAM3DNet: Comprehensively mining the multi-scale features for 3D Object Detection with Multi-View Cameras**|Mingxi Pang et.al.|[2604.17024](http://arxiv.org/abs/2604.17024)|null|
+|**2026-04-18**|**Q-DeepSight: Incentivizing Thinking with Images for Image Quality Assessment and Refinement**|Xudong Li et.al.|[2604.16858](http://arxiv.org/abs/2604.16858)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
 |**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al.|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
 |**2026-04-15**|**Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning**|Danish Nazir et.al.|[2604.13586](http://arxiv.org/abs/2604.13586)|null|
@@ -9316,6 +9343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Mitigating Multimodal Hallucination via Phase-wise Self-reward**|Yu Zhang et.al.|[2604.17982](http://arxiv.org/abs/2604.17982)|null|
+|**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
+|**2026-04-20**|**From Heads to Neurons: Causal Attribution and Steering in Multi-Task Vision-Language Models**|Qidong Wang et.al.|[2604.17941](http://arxiv.org/abs/2604.17941)|null|
+|**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
+|**2026-04-20**|**SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**|Wensheng Wang et.al.|[2604.17888](http://arxiv.org/abs/2604.17888)|null|
+|**2026-04-20**|**ST- $π$ : Structured SpatioTemporal VLA for Robotic Manipulation**|Chuanhao Ma et.al.|[2604.17880](http://arxiv.org/abs/2604.17880)|null|
+|**2026-04-20**|**SYMBOLIZER: Symbolic Model-free Task Planning with VLMs**|Sami Azirar et.al.|[2604.17830](http://arxiv.org/abs/2604.17830)|null|
+|**2026-04-20**|**Privacy-Preserving Product-Quantized Approximate Nearest Neighbor Search Framework for Large-scale Datasets via A Hybrid of Fully Homomorphic Encryption and Trusted Execution Environment**|Shozo Saeki et.al.|[2604.17816](http://arxiv.org/abs/2604.17816)|null|
+|**2026-04-20**|**When Vision-Language Models Judge Without Seeing: Exposing Informativeness Bias**|Xiaohan Zou et.al.|[2604.17768](http://arxiv.org/abs/2604.17768)|null|
+|**2026-04-19**|**BioVLM: Routing Prompts, Not Parameters, for Cross-Modality Generalization in Biomedical VLMs**|Mainak Singha et.al.|[2604.17629](http://arxiv.org/abs/2604.17629)|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
 |**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Laurence Bonat et.al.|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
@@ -9551,10 +9588,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval**|Hang Cheng et.al.|[2604.18019](http://arxiv.org/abs/2604.18019)|null|
+|**2026-04-17**|**Frenetic Cat-inspired Particle Optimization: a Markov state-switching hybrid swarm optimizer with application to cardiac digital twinning**|Jorge Sánchez et.al.|[2604.15761](http://arxiv.org/abs/2604.15761)|null|
+|**2026-04-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al.|[2604.14781](http://arxiv.org/abs/2604.14781)|null|
+|**2026-04-16**|**Formalizing Poisson-Boltzmann Theory for Field-Tunable Nanofluidic Devices**|Zhongyuan Zhao et.al.|[2604.14777](http://arxiv.org/abs/2604.14777)|null|
 |**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Elton Cao et.al.|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
 |**2026-04-14**|**PAT-VCM: Plug-and-Play Auxiliary Tokens for Video Coding for Machines**|Wei Jiang et.al.|[2604.13294](http://arxiv.org/abs/2604.13294)|null|
 |**2026-04-14**|**Neural 3D Reconstruction of Planetary Surfaces from Descent-Phase Wide-Angle Imagery**|Melonie de Almeida et.al.|[2604.13235](http://arxiv.org/abs/2604.13235)|null|
-|**2026-04-14**|**Inexpensive Optical Projection Tomography on a Mobile Phone Platform**|Gennifer T. Smith et.al.|[2604.13004](http://arxiv.org/abs/2604.13004)|null|
+|**2026-04-16**|**Inexpensive Optical Projection Tomography on a Mobile Phone Platform**|Gennifer T. Smith et.al.|[2604.13004](http://arxiv.org/abs/2604.13004)|null|
 |**2026-04-14**|**Pi-HOC: Pairwise 3D Human-Object Contact Estimation**|Sravan Chittupalli et.al.|[2604.12923](http://arxiv.org/abs/2604.12923)|null|
 |**2026-04-14**|**DoseRAD2026 Challenge dataset: AI accelerated photon and proton dose calculation for radiotherapy**|Fan Xiao et.al.|[2604.12778](http://arxiv.org/abs/2604.12778)|null|
 |**2026-04-14**|**The Impact of Qubit Connectivity on Quantum Advantage in Noisy IQP Circuits**|Leonardo Placidi et.al.|[2604.12635](http://arxiv.org/abs/2604.12635)|null|
