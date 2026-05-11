@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
+|**2026-05-07**|**Indoor 60 GHz Radio Channel Dataset Enabling Digital Twin Construction**|Davide Scazzoli et.al.|[2605.05824](http://arxiv.org/abs/2605.05824)|null|
+|**2026-05-06**|**SLAM: Structural Linguistic Activation Marking for Language Models**|Fabrice Harel-Canada et.al.|[2605.05443](http://arxiv.org/abs/2605.05443)|null|
+|**2026-05-06**|**A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps**|Himanshu Paudel et.al.|[2605.05182](http://arxiv.org/abs/2605.05182)|null|
+|**2026-05-06**|**Dr-PoGO: Direct Radar Pose-Graph Optimization**|Cedric Le Gentil et.al.|[2605.04806](http://arxiv.org/abs/2605.04806)|null|
+|**2026-05-07**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
 |**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|null|
 |**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
 |**2026-05-04**|**Multi-User XR Offloading via Massive MIMO: A System-Level Analysis using a Real-Life Dataset**|Love Bárány et.al.|[2605.02631](http://arxiv.org/abs/2605.02631)|null|
@@ -8894,6 +8901,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](http://arxiv.org/abs/2605.08035)|null|
+|**2026-05-08**|**Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis**|Niklas Vaara et.al.|[2605.07781](http://arxiv.org/abs/2605.07781)|null|
+|**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|
+|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192](http://arxiv.org/abs/2605.07192)|null|
+|**2026-05-08**|**SatSurfGS: Generalizable 2D Gaussian Splatting for Sparse-View Satellite Surface Reconstruction**|Min Chen et.al.|[2605.07181](http://arxiv.org/abs/2605.07181)|null|
+|**2026-05-07**|**AdpSplit: Error-Driven Adaptive Splitting for Faster Geometry Discovery in 3D Gaussian Splatting**|Yongjae Lee et.al.|[2605.06876](http://arxiv.org/abs/2605.06876)|null|
+|**2026-05-06**|**Aes3D: Aesthetic Assessment in 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2605.05155](http://arxiv.org/abs/2605.05155)|null|
+|**2026-05-06**|**QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes**|Xinze Li et.al.|[2605.04844](http://arxiv.org/abs/2605.04844)|null|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
+|**2026-05-06**|**CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays**|Gyujin Sim et.al.|[2605.04509](http://arxiv.org/abs/2605.04509)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|null|
 |**2026-05-03**|**From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving**|Ali Nouri et.al.|[2605.01995](http://arxiv.org/abs/2605.01995)|null|
@@ -9158,6 +9175,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
+|**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
+|**2026-05-08**|**EditTransfer++: Toward Faithful and Efficient Visual-Prompt-Guided Image Editing**|Lan Chen et.al.|[2605.07455](http://arxiv.org/abs/2605.07455)|null|
+|**2026-05-08**|**ChartREG++: Towards Benchmarking and Improving Chart Referring Expression Grounding under Diverse referring clues and Multi-Target Referring**|Tianhao Niu et.al.|[2605.07415](http://arxiv.org/abs/2605.07415)|null|
+|**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
+|**2026-05-08**|**HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents**|Guankai Li et.al.|[2605.07177](http://arxiv.org/abs/2605.07177)|null|
+|**2026-05-08**|**Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding**|Yuan Yao et.al.|[2605.07141](http://arxiv.org/abs/2605.07141)|null|
+|**2026-05-07**|**OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention**|Kunyi Li et.al.|[2605.06088](http://arxiv.org/abs/2605.06088)|null|
+|**2026-05-07**|**Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis**|Yuhan Xia et.al.|[2605.05897](http://arxiv.org/abs/2605.05897)|null|
+|**2026-05-06**|**Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift**|Till Beemelmanns et.al.|[2605.05328](http://arxiv.org/abs/2605.05328)|null|
 |**2026-05-05**|**FUS3DMaps: Scalable and Accurate Open-Vocabulary Semantic Mapping by 3D Fusion of Voxel- and Instance-Level Layers**|Timon Homberger et.al.|[2605.03669](http://arxiv.org/abs/2605.03669)|null|
 |**2026-05-04**|**Perceptual Flow Network for Visually Grounded Reasoning**|Yangfu Li et.al.|[2605.02730](http://arxiv.org/abs/2605.02730)|null|
 |**2026-05-04**|**Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation**|Moyu Tang et.al.|[2605.02376](http://arxiv.org/abs/2605.02376)|null|
@@ -9419,6 +9446,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
+|**2026-05-08**|**Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**|Kaidi Jia et.al.|[2605.08031](http://arxiv.org/abs/2605.08031)|null|
+|**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
+|**2026-05-08**|**MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence**|Hanqi Jiang et.al.|[2605.07919](http://arxiv.org/abs/2605.07919)|null|
+|**2026-05-08**|**GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning**|Brown Ebouky et.al.|[2605.07817](http://arxiv.org/abs/2605.07817)|null|
+|**2026-05-08**|**SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models**|Jiesong Lian et.al.|[2605.07800](http://arxiv.org/abs/2605.07800)|null|
+|**2026-05-08**|**RuleSafe-VL: Evaluating Rule-Conditioned Decision Reasoning in Vision-Language Content Moderation**|Zhifeng Lu et.al.|[2605.07760](http://arxiv.org/abs/2605.07760)|null|
+|**2026-05-08**|**Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models**|Berkehan Ünal et.al.|[2605.07649](http://arxiv.org/abs/2605.07649)|null|
+|**2026-05-08**|**LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|[2605.07640](http://arxiv.org/abs/2605.07640)|null|
+|**2026-05-08**|**PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models**|Yuliang Li et.al.|[2605.07574](http://arxiv.org/abs/2605.07574)|null|
 |**2026-05-05**|**StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning**|Xiaowen Sun et.al.|[2605.03927](http://arxiv.org/abs/2605.03927)|null|
 |**2026-05-05**|**Quantifying the human visual exposome with vision language models**|Christian Rominger et.al.|[2605.03863](http://arxiv.org/abs/2605.03863)|null|
 |**2026-05-05**|**RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**|Hao Wu et.al.|[2605.03821](http://arxiv.org/abs/2605.03821)|null|
@@ -9694,6 +9731,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978](http://arxiv.org/abs/2605.07978)|null|
+|**2026-05-08**|**Reliable Chain-of-Thought via Prefix Consistency**|Naoto Iwase et.al.|[2605.07654](http://arxiv.org/abs/2605.07654)|null|
+|**2026-05-08**|**Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework**|Linxiao Shi et.al.|[2605.07429](http://arxiv.org/abs/2605.07429)|null|
+|**2026-05-08**|**Learning Image-Adaptive Scale Fields for Metric Depth Recovery**|Yuanyan Li et.al.|[2605.07418](http://arxiv.org/abs/2605.07418)|null|
+|**2026-05-08**|**Palm-sized Omnidirectional Vision-Based UAV Exploration with Sparse Topological Map Guidance**|Zirui Wang et.al.|[2605.07275](http://arxiv.org/abs/2605.07275)|null|
+|**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|
+|**2026-05-08**|**SatSurfGS: Generalizable 2D Gaussian Splatting for Sparse-View Satellite Surface Reconstruction**|Min Chen et.al.|[2605.07181](http://arxiv.org/abs/2605.07181)|null|
+|**2026-05-07**|**Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers**|Pengqi Lu et.al.|[2605.06169](http://arxiv.org/abs/2605.06169)|null|
+|**2026-05-07**|**FluxShard: Motion-Aware Feature Cache Reuse for Collaborative Video Analytics in Mobile Edge Computing**|Xiuxian Guan et.al.|[2605.06027](http://arxiv.org/abs/2605.06027)|null|
+|**2026-05-07**|**$\mathcal{B}^{3}$ -Net: Controlled Posterior Bridge Learning for Multi-Task Dense Prediction**|Meihua Zhou et.al.|[2605.05722](http://arxiv.org/abs/2605.05722)|null|
 |**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|null|
 |**2026-05-05**|**A simulation- and model-based approach to PI control pairing and tuning for the pyro process in a cement plant**|Jan Lorenz Svensen et.al.|[2605.03489](http://arxiv.org/abs/2605.03489)|null|
 |**2026-05-05**|**Quantum Resource Estimation for Minimising Energy Grid Losses**|Camille de Valk et.al.|[2605.03467](http://arxiv.org/abs/2605.03467)|null|
