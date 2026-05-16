@@ -2,17 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](http://arxiv.org/abs/2605.13741)|null|
+|**2026-05-12**|**WildPose: A Unified Framework for Robust Pose Estimation in the Wild**|Jianhao Zheng et.al.|[2605.12774](http://arxiv.org/abs/2605.12774)|null|
+|**2026-05-11**|**MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction**|Zhihao Cao et.al.|[2605.10760](http://arxiv.org/abs/2605.10760)|null|
+|**2026-05-10**|**Above and Below: Heterogeneous Multi-robot SLAM Across Surface and Underwater Domains**|John McConnell et.al.|[2605.09811](http://arxiv.org/abs/2605.09811)|null|
 |**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|null|
 |**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
 |**2026-05-07**|**Indoor 60 GHz Radio Channel Dataset Enabling Digital Twin Construction**|Davide Scazzoli et.al.|[2605.05824](http://arxiv.org/abs/2605.05824)|null|
-|**2026-05-06**|**SLAM: Structural Linguistic Activation Marking for Language Models**|Fabrice Harel-Canada et.al.|[2605.05443](http://arxiv.org/abs/2605.05443)|null|
+|**2026-05-08**|**SLAM: Structural Linguistic Activation Marking for Language Models**|Fabrice Harel-Canada et.al.|[2605.05443](http://arxiv.org/abs/2605.05443)|null|
 |**2026-05-06**|**A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps**|Himanshu Paudel et.al.|[2605.05182](http://arxiv.org/abs/2605.05182)|null|
 |**2026-05-06**|**Dr-PoGO: Direct Radar Pose-Graph Optimization**|Cedric Le Gentil et.al.|[2605.04806](http://arxiv.org/abs/2605.04806)|null|
 |**2026-05-07**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
@@ -8901,6 +8905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**3D Skew-Normal Splatting**|Xiangru Wu et.al.|[2605.15010](http://arxiv.org/abs/2605.15010)|null|
+|**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](http://arxiv.org/abs/2605.14880)|null|
+|**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
+|**2026-05-13**|**BlitzGS: City-Scale Gaussian Splatting at Lightning Speed**|Zhongtao Wang et.al.|[2605.13794](http://arxiv.org/abs/2605.13794)|null|
+|**2026-05-13**|**Z-Order Transformer for Feed-Forward Gaussian Splatting**|Can Wang et.al.|[2605.13465](http://arxiv.org/abs/2605.13465)|null|
+|**2026-05-13**|**HarmoGS: Robust 3D Gaussian Splatting in the Wild via Conflict-Aware Gradient Harmonization**|Yulei Kang et.al.|[2605.13073](http://arxiv.org/abs/2605.13073)|null|
+|**2026-05-13**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](http://arxiv.org/abs/2605.12919)|null|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
+|**2026-05-12**|**GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction**|Xiao Cao et.al.|[2605.12399](http://arxiv.org/abs/2605.12399)|null|
+|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|null|
 |**2026-05-08**|**PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting**|William Bjorndahl et.al.|[2605.08035](http://arxiv.org/abs/2605.08035)|null|
 |**2026-05-08**|**Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis**|Niklas Vaara et.al.|[2605.07781](http://arxiv.org/abs/2605.07781)|null|
 |**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|
@@ -9175,6 +9189,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory**|Minghao Guo et.al.|[2605.15128](http://arxiv.org/abs/2605.15128)|null|
+|**2026-05-14**|**MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models**|Xiyu Ren et.al.|[2605.14906](http://arxiv.org/abs/2605.14906)|null|
+|**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801](http://arxiv.org/abs/2605.14801)|null|
+|**2026-05-14**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al.|[2605.14781](http://arxiv.org/abs/2605.14781)|null|
+|**2026-05-14**|**Do We Really Need External Tools to Mitigate Hallucinations? SIRA: Shared-Prefix Internal Reconstruction of Attribution**|Tian Qin et.al.|[2605.14621](http://arxiv.org/abs/2605.14621)|null|
+|**2026-05-14**|**Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models**|Sujung Hong et.al.|[2605.14530](http://arxiv.org/abs/2605.14530)|null|
+|**2026-05-14**|**GeoVista: Visually Grounded Active Perception for Ultra-High-Resolution Remote Sensing Understanding**|Jiashun Zhu et.al.|[2605.14475](http://arxiv.org/abs/2605.14475)|null|
+|**2026-05-13**|**SToRe3D: Sparse Token Relevance in ViTs for Efficient Multi-View 3D Object Detection**|Sandro Papais et.al.|[2605.14110](http://arxiv.org/abs/2605.14110)|null|
+|**2026-05-13**|**Behavior Cloning for Active Perception with Low-Resolution Egocentric Vision**|Anthony Bilic et.al.|[2605.14106](http://arxiv.org/abs/2605.14106)|null|
+|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
 |**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
 |**2026-05-08**|**EditTransfer++: Toward Faithful and Efficient Visual-Prompt-Guided Image Editing**|Lan Chen et.al.|[2605.07455](http://arxiv.org/abs/2605.07455)|null|
@@ -9446,6 +9470,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Does Synthetic Layered Design Data Benefit Layered Design Decomposition?**|Kam Man Wu et.al.|[2605.15167](http://arxiv.org/abs/2605.15167)|null|
+|**2026-05-14**|**Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action**|Yi Zhang et.al.|[2605.15153](http://arxiv.org/abs/2605.15153)|null|
+|**2026-05-14**|**MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory**|Minghao Guo et.al.|[2605.15128](http://arxiv.org/abs/2605.15128)|null|
+|**2026-05-14**|**On the Cultural Anachronism and Temporal Reasoning in Vision Language Models**|Mukul Ranjan et.al.|[2605.15071](http://arxiv.org/abs/2605.15071)|null|
+|**2026-05-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al.|[2605.15054](http://arxiv.org/abs/2605.15054)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs**|Wei Ding et.al.|[2605.14966](http://arxiv.org/abs/2605.14966)|null|
+|**2026-05-14**|**Chain-of-Procedure: Hierarchical Visual-Language Reasoning for Procedural QA**|Guanhua Chen et.al.|[2605.14928](http://arxiv.org/abs/2605.14928)|null|
+|**2026-05-14**|**SceneParser: Hierarchical Scene Parsing for Visual Semantics Understanding**|Pengxin Xu et.al.|[2605.14923](http://arxiv.org/abs/2605.14923)|null|
+|**2026-05-14**|**SteerSeg: Attention Steering for Reasoning Video Segmentation**|Ali Cheraghian et.al.|[2605.14908](http://arxiv.org/abs/2605.14908)|null|
 |**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
 |**2026-05-08**|**Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**|Kaidi Jia et.al.|[2605.08031](http://arxiv.org/abs/2605.08031)|null|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
@@ -9731,6 +9765,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|null|
+|**2026-05-13**|**CineMesh4D: Personalized 4D Whole Heart Reconstruction from Sparse Cine MRI**|Xiaoyue Liu et.al.|[2605.13994](http://arxiv.org/abs/2605.13994)|null|
+|**2026-05-13**|**Sensitivity Quantification for Distribution System State Estimation**|Betül Mamudi et.al.|[2605.13390](http://arxiv.org/abs/2605.13390)|null|
+|**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|null|
+|**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|null|
+|**2026-05-12**|**A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline**|Mohamed Ahmed Mohamed et.al.|[2605.12608](http://arxiv.org/abs/2605.12608)|null|
+|**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
+|**2026-05-13**|**Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays**|Arne Loenders et.al.|[2605.12143](http://arxiv.org/abs/2605.12143)|null|
+|**2026-05-12**|**A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography**|Tatiana A. Bubba et.al.|[2605.12085](http://arxiv.org/abs/2605.12085)|null|
+|**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027](http://arxiv.org/abs/2605.12027)|null|
 |**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978](http://arxiv.org/abs/2605.07978)|null|
 |**2026-05-08**|**Reliable Chain-of-Thought via Prefix Consistency**|Naoto Iwase et.al.|[2605.07654](http://arxiv.org/abs/2605.07654)|null|
 |**2026-05-08**|**Towards Photorealistic and Efficient Bokeh Rendering via Diffusion Framework**|Linxiao Shi et.al.|[2605.07429](http://arxiv.org/abs/2605.07429)|null|
